@@ -1,0 +1,1 @@
+Shuto is a bot made for fun by MJ
