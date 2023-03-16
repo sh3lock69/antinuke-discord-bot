@@ -5,7 +5,7 @@ from utils.emojis import EMOJIS
 import utils
 from utils.shuto import bot_author_icon, Bot_name
 import datetime
-import optional_django
+
 
 class UserinfoView(commands.Cog):
 
