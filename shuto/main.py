@@ -6,7 +6,7 @@ import asyncio
 from config import Token
 import core
 from core.shuto import client
-import asyncpg 
+
 import json 
 
  
