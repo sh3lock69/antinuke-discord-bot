@@ -18,3 +18,4 @@ To use this code:
 - Run `main.py` file.
 
 `Shuto is a Open source Discord Bot With Advanced Features`
+Thanks for Using
